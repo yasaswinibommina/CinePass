@@ -1,0 +1,14 @@
+**/target/
+**/data/
+**/*.db
+**/*.db.mv.db
+**/*.db.trace.db
+
+**/.classpath
+**/.project
+**/.settings/
+
+*.log
+
+.DS_Store
+Thumbs.db
