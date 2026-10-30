@@ -1,14 +1,7 @@
+.metadata/
 **/target/
-**/data/
-**/*.db
-**/*.db.mv.db
-**/*.db.trace.db
-
+**/.settings/
 **/.classpath
 **/.project
-**/.settings/
-
+*.class
 *.log
-
-.DS_Store
-Thumbs.db
